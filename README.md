@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 
-- 🌱 I’m graduat from SoftUni with profession ,,C# Web Developer. **https://softuni.bg/**
+- 🌱 I’m graduat from SoftUni with profession ,,C# Web Developer". **https://softuni.bg/**
 
 - 📫 How to reach me: **tonkata2007@gmail.com**
 
