@@ -15,6 +15,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsi2901&show_icons=true&locale=en" alt="tsi2901" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsi2901&" alt="tsi2901" /></p>
